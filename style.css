@@ -31,25 +31,6 @@ img.img-logo{
   margin: 0 10%;
 }
 
-/* .tel{
-  background-color: orange;
-  height: 100%;
-  width: 10vw;
-  line-height: 10vh;
-  margin-left: 20%;
-  text-align: center;
-  border-radius: 10px;
-  margin-right: 3vw;
-} */
-
-/* .tel-title{
-  color: #fff;
-}
-
-.tel-num{
-  line-height: 5vh;
-} */
-
 .tel {
   height: 20vh;
   width: 15vW;
@@ -59,10 +40,6 @@ img.img-logo{
   height: 100%;
   width: 100%;
 }
-
-/* .tel-num a{
-  color: #fff;
-} */
 
 .access{
   height: 10vh;
@@ -79,5 +56,8 @@ img.img-logo{
   color: rgb(254, 2, 2);
   line-height: 100%;
 }
+
+
 /* top_page */
+
 /* top_page */
