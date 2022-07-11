@@ -2,6 +2,10 @@ a{
   text-decoration: none;
 }
 
+li{
+  list-style: none;
+}
+
 .header{
   background-color: #FFFFFF;
   height: 15vh;
@@ -57,5 +61,24 @@ img.img-logo{
 }
 
 /* top_page */
+.header-nav{
+  background-color: pink;
+  height: 10vh;
+  line-height: 10vh;
+}
 
+.header-lists{
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+  background-color: black;
+}
+
+.header-list{
+  font-size: 20px;
+}
+
+.header-list a{
+  color: #FFFFFF;
+}
 /* top_page */
